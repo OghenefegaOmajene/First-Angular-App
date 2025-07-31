@@ -10,16 +10,20 @@
     color: white;
 }
 .navLogo{
-    /* border: 1px solid white; */
-    width: 10%;
+    width: 40%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-/* .navLogo p{
-    font-size: 25px;
-} */
+.navLogo img{
+    width: 100px;
+    height: 100%;
+}
+.navLogo p{
+    margin: 0;
+    font-size: 30px;
+}
 .navLinks{
     width: 80%;
     height: 100%;

@@ -1,6 +1,6 @@
 /* hero.component.css */
 .hero-banner-bg {
-    background-image: url('../../images/redMountains.jpg');
+    background-image: url('../../assets/images/redMountains.jpg');
     background-size: cover;
     background-position: center;
     height: 500px;
