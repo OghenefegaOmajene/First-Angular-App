@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 
 export class HeaderComponent {
-  logo: string = "FirstAngularApp"
+  logo: string = "Artifact X"
   link1: string = "Home"
   link2: string = "About"
   link3: string = "Contact"

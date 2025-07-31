@@ -1,0 +1,15 @@
+/* hero.component.css */
+.hero-banner-bg {
+    background-image: url('../../images/redMountains.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.461);
+    background-blend-mode: darken;
+  }
+  
